@@ -18,3 +18,5 @@ google-search-results
 faiss-cpu
 sentence-transformers
 ipykernel
+youtube_search
+duckduckgo-search
